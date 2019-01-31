@@ -14,3 +14,7 @@ Note: npm stands for node package manager and works like the pip install for pyt
 First steps: I need to set up Express.js and get the “Hello World” running on localhost: 3000. 
 
 I copied and pasted the code from: https://expressjs.com/en/starter/hello-world.html, which are the first few lines of code that goes in the document. See comments in that file for a line by line explanation of how to set up an node and express project. 
+
+1/30 11:45 - 12:00 p.m
+
+Finish explaining how to do “Hello World” in express node. 
