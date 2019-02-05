@@ -18,3 +18,16 @@ I copied and pasted the code from: https://expressjs.com/en/starter/hello-world.
 1/30 11:45 - 12:00 p.m
 
 Finish explaining how to do “Hello World” in express node. 
+
+2/4 11:00 - 12:05 p.m 
+
+Getting back into node and the tutorials after a few days of absence from working on another coding challenge -- which still remains broken :’(
+
+Added Bootstrap to the layout template <head> using CDN (or using a Content Delivery Network)
+
+Go to https://getbootstrap.com/docs/4.1/getting-started/download/ and scroll down to Bootstrap CDN, copy and paste the code in that section into the header for your html file. 
+
+Use this website to set up res.sendFile: https://scotch.io/tutorials/use-expressjs-to-deliver-html-files
+
+This renders my first bootstrapped page for the project!
+
