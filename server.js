@@ -10,7 +10,7 @@ const path = require('path')
 // this is the first route, allowing the app to request and response, in which the response is "Hello World!"
 
 app.get('/',function(req,res) {
-  res.sendFile(path.join(__dirname, 'front_page_of_the_internet.html'));
+  res.sendFile(path.join(__dirname, 'main.html'));
 });
 
 // this prints in the console
