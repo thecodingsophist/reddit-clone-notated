@@ -31,3 +31,4 @@ Use this website to set up res.sendFile: https://scotch.io/tutorials/use-express
 
 This renders my first bootstrapped page for the project!
 
+2/14 1:00 p.m Changed extension from .html to .hbs (which doesn't work) to .handlebars. Finished the nav bar component to Reddit.js.
